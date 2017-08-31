@@ -1,0 +1,16 @@
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Web.Nancy\bin\Engine.Web.Nancy.dll.config
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Web.Nancy\bin\Engine.Web.Nancy.dll
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Web.Nancy\bin\Engine.Web.Nancy.pdb
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Web.Nancy\bin\Nancy.dll
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Web.Nancy\bin\Nancy.Hosting.Aspnet.dll
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Web.Nancy\bin\Nancy.xml
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Web.Nancy\bin\Nancy.Hosting.Aspnet.xml
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Web.Nancy\obj\Debug\Engine.Web.Nancy.csprojResolveAssemblyReference.cache
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Web.Nancy\obj\Debug\Engine.Web.Nancy.dll
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Web.Nancy\obj\Debug\Engine.Web.Nancy.pdb
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Web.Nancy\bin\Engine.dll
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Web.Nancy\bin\Engine.pdb
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Web.Nancy\bin\Engine.Languages.dll
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Web.Nancy\bin\Newtonsoft.Json.dll
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Web.Nancy\bin\Engine.Languages.pdb
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Web.Nancy\bin\Newtonsoft.Json.xml

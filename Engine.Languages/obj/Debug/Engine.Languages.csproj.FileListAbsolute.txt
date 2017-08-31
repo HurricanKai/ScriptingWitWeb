@@ -1,0 +1,5 @@
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Languages\bin\Debug\Engine.Languages.dll
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Languages\bin\Debug\Engine.Languages.pdb
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Languages\obj\Debug\Engine.Languages.csprojResolveAssemblyReference.cache
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Languages\obj\Debug\Engine.Languages.dll
+C:\Users\HurricanKai\documents\visual studio 2017\Projects\Scripting Engine _Web\Engine.Languages\obj\Debug\Engine.Languages.pdb
